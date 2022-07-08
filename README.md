@@ -8,7 +8,7 @@ The questions are sourced from https://www.stratascratch.com/ and have my own so
 There are 3 levels: Easy, Medium and Hard and we are improving on multiple  SQL Concepts.
 The concepts are listed in this documentation and we are referencing the topics covered to the interview question ID for further practice. 
 
-## Strcture
+## Structure
 The repo is divided according to the difficulty of the problem: 
 
 Hard
@@ -24,12 +24,12 @@ We are going to learn about SQL concepts below.
 In example we will reference to a certain interview question for further practice.
 This can be found in the project structure through the id which is appended to each interview question folder
 
-###WINDOW FUNCTIONS
+### WINDOW FUNCTIONS
 
 
 =====
 
-###WINDOW FUNCTIONS
+### WINDOW FUNCTIONS
 Definition: https://www.youtube.com/watch?v=mZwKALGyVr0&t=139s
 Examples: 10302,10313
 
