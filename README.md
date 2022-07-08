@@ -24,12 +24,12 @@ We are going to learn about SQL concepts below.
 In example we will reference to a certain interview question for further practice.
 This can be found in the project structure through the id which is appended to each interview question folder
 
-WINDOW FUNCTIONS
+###WINDOW FUNCTIONS
 
 
 =====
 
-WINDOW FUNCTIONS
+###WINDOW FUNCTIONS
 Definition: https://www.youtube.com/watch?v=mZwKALGyVr0&t=139s
 Examples: 10302,10313
 
