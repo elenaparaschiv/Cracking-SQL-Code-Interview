@@ -3,7 +3,6 @@ Concepts learned:
 LAG, Window functions
 
 
-
 STEPS:
     Naive forecasting for 'distance per dollar'
     distance per dollar = distance_to_travel/monetary_cost
