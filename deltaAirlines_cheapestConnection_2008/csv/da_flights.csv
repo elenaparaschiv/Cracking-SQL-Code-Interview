@@ -1,0 +1,7 @@
+id,origin,destination,cost
+1,SFO,JFK,500
+2,SFO,DFW,200
+3,SFO,MCO,400
+4,DFW,MCO,100
+5,DFW,JFK,200
+6,JFK,LHR,1000

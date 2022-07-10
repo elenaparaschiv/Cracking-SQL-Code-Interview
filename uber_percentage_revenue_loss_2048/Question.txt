@@ -1,0 +1,3 @@
+For each service, calculate the percentage of incomplete orders along with
+the revenue loss percentage. Your output should include the name of the service, 
+percentage of incomplete orders, and revenue loss from the incomplete orders.

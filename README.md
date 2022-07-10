@@ -33,6 +33,8 @@ This can be found in the project structure through the id which is appended to e
 Definition: https://www.youtube.com/watch?v=mZwKALGyVr0&t=139s <br>
 Examples: 10302,10313
 
+## USING FILTERS
+
 
 
 
