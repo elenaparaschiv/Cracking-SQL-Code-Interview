@@ -9,12 +9,6 @@ There are 3 levels: Easy, Medium and Hard and we are improving on multiple  SQL 
 The concepts are listed in this documentation and we are referencing the topics covered to the interview question ID for further practice. 
 
 ## Structure
-The repo is divided according to the difficulty of the problem: 
-
-Hard
-Medium
-Easy
-
 At each level {company_name}_{interview_question}_{id} is referenced
 The source files are in the csv folder and the solution is in solution.sql
 
