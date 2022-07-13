@@ -5,8 +5,6 @@ In this project we are solving SQL Interview Questions from FAANG companies, suc
 
 The questions are sourced from https://www.stratascratch.com/ and have my own solution to the problems
 
-There are 3 levels: Easy, Medium and Hard and we are improving on multiple  SQL Concepts.
-The concepts are listed in this documentation and we are referencing the topics covered to the interview question ID for further practice. 
 
 ## Structure
 At each level {company_name}_{interview_question}_{id} is referenced
